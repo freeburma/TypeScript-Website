@@ -170,7 +170,7 @@ Now right-click on `gulpfile.js` and click Task Runner Explorer.
 
 ![Screenshot of right clicking on the "Gulpfile.js" with 'Task Runner Exploere' selected](/images/tutorials/aspnet/taskrunner.png)
 
-If ‘default’ and ‘clean’ tasks don’t show up, refresh the explorer:
+If ‘default’ and ‘clean’ tasks don’t show up, refresh the explorer. Then double click on "default" task to compile TypeScript files to JavaScripts. Please click "clean" task when you want to clean up the JavaScript files. 
 
 ![Screenshot of task explorer with "Gulpfile.js" in it](/images/tutorials/aspnet/taskrunnerrefresh.png)
 
